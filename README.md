@@ -1,21 +1,21 @@
-# 👋 Olá! Eu sou o Thiago Dias
+# Seja bem vindo companheiro DEV!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=500&lines=Desenvolvedor+Full+Stack+Jr;Estudante+de+Programa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia;DIO+Bootcamp+Student!" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvimento, trabalhando na TI da **CYBELAR** em **Tietê - SP**. Tenho uma paixão genuína por tecnologia e estou sempre em busca de novos conhecimentos através de bootcamps, cursos, projetos e desafios de código.
 
-- 🔭 **Atualmente trabalhando em:** Projetos de aprendizado e bootcamps da DIO
-- 🌱 **Estudando:** Java, JavaScript, Spring Boot, HTML/CSS e desenvolvimento web
-- 🎯 **Foco atual:** Desenvolvimento Full Stack e programação orientada a objetos
-- 👯 **Procurando colaborar em:** Projetos open source e iniciativas de aprendizado
-- 💬 **Pergunte-me sobre:** Java, JavaScript, HTML/CSS, jogos web e projetos DIO
-- � **Localização:** Tietê - SP, Brasil
-- 🏢 **Empresa:** CYBELAR COMERCIO E INDUSTRIA LTDA
-- ⚡ **Fato curioso:** Gosto de criar jogos e simuladores como forma de aprender!
+- **Atualmente trabalhando em:** Projetos de aprendizado e bootcamps da DIO
+- **Estudando:** Java, JavaScript, Spring Boot, HTML/CSS e desenvolvimento web
+- **Foco atual:** Desenvolvimento Full Stack e programação orientada a objetos
+- **Procurando colaborar em:** Projetos open source e iniciativas de aprendizado
+- **Pergunte-me sobre:** Java, JavaScript, HTML/CSS, jogos web e projetos DIO
+- **Localização:** Tietê - SP, Brasil
+- **Empresa:** CYBELAR COMERCIO E INDUSTRIA LTDA
+- **Fato curioso:** Gosto de criar jogos e simuladores como forma de aprender!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremedam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -49,7 +49,7 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 </div>
 
-## 🎯 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
   
@@ -77,7 +77,7 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 - **[Spider-Man Multiverso](https://github.com/tremedam/Spider_Man_Multi_DIO)** - Página completa temática
 - **[Stranger Things](https://github.com/tremedam/Landing_Page_ST_DIO)** - Landing page da série
 
-## 🔄 Atividade Recente
+## Atividade Recente
 
 - 🎯 **100 contribuições** no último ano
 - 📈 **26 repositórios** públicos criados
@@ -101,7 +101,7 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 <div align="center">
   
-### 🎯 Meus Objetivos
+### Meus Objetivos
 
 </div>
 
@@ -118,7 +118,5 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 <div align="center">
   <h3>Obrigado por visitar meu perfil!</h3>
-  <p><i>"O código é poesia em movimento - cada linha conta uma história de solução e criatividade."</i></p>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <p><i>"Encontre seu fluxo — aquele estado em que habilidade e desafio se equilibram, sua mente se concentra totalmente, e o tempo parece desaparecer. Quando você acessa esse estado, pode realizar qualquer coisa."</i></p>
 </div>
