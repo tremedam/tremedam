@@ -1,14 +1,12 @@
 <div align="center">
 
+---
+
 # Seja bem vindo companheiro DEV!
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=500&lines=Desenvolvedor+Full+Stack+Jr;Estudante+de+Programa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia;DIO+Bootcamp+Student!" alt="Typing SVG" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=500&lines=Desenvolvedor+Full+Stack+Jr;Estudante+de+Programa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia;DIO+Bootcamp+Student!" alt="Typing SVG" />
-</div>
-
-<div align="center">
+---
 
 ## Sobre Mim
 
@@ -30,6 +28,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 </div>
 
 <div align="center">
+
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -63,6 +63,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 <div align="center">
 
+---
+
 ## Projetos em Destaque
 
 </div>
@@ -79,6 +81,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 <div align="center">
 
+---
+
 ### 🎮 Jogos & Simuladores
 
 </div>
@@ -91,6 +95,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 <div align="center">
 
+---
+
 ### 💼 Projetos Profissionais
 
 </div>
@@ -101,6 +107,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 <div align="center">
 
+---
+
 ### 🎨 Landing Pages & Front-end
 
 </div>
@@ -109,6 +117,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 - **[Stranger Things](https://github.com/tremedam/Landing_Page_ST_DIO)** - Landing page da série
 
 <div align="center">
+
+---
 
 ## Atividade Recente
 
@@ -120,6 +130,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 - 💡 Focado em **projetos práticos** de aprendizado
 
 <div align="center">
+
+---
 
 ## Conecte-se comigo!
 
@@ -136,6 +148,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 <div align="center">
 
+---
+
 ## 💭 Filosofia de Desenvolvimento
 
 </div>
@@ -148,6 +162,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 <div align="center">
   
+---
+
 ### Meus Objetivos
 
 </div>
