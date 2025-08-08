@@ -1,8 +1,6 @@
 <div align="center">
 
-# Seja bem-vindo, companheiro DEV! 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+Jr+🔥;Estudante+de+Programação+📚;Apaixonado+por+Tecnologia+💻;Bootcamp+Student+%40+DIO+🎯" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+Jr+🔥;Estudante+de+Programação;Apaixonado+por+Tecnologia;Bootcamp+Student+%40+DIO+🎯" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -12,19 +10,13 @@
 
 ## Sobre Mim
 
-**Thiago F.S Dias** | **Full Stack Developer Jr** | **Tietê - SP, Brasil** 🇧🇷
+**Thiago F.S Dias** | **Aspirante a Full Stack Developer** | **Tietê - SP, Brasil** 🇧🇷
 
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Estudante de programação em constante evolução, trabalhando na TI da **CYBELAR**.  
-
-Apaixonado por tecnologia e sempre em busca de novos desafios.
-
-Focado em desenvolvimento Full Stack e programação orientada a objetos.
-
-Criador de jogos e simuladores como método de aprendizado.
+Sou um estudante de programação em constante evolução, trabalhando na area de TI da **CYBELAR**. Apaixonado por tecnologia e sempre em busca de novos desafios para adquirir experiencia e entregar resultados incriveis. Foco meus estudos para ir rumo a area de desenvolvimento Full Stack e programação orientada a objetos.
 
 ### 🔍 **Atualmente**
 - **Trabalhando em:** Projetos de aprendizado e bootcamps da DIO;
@@ -41,8 +33,6 @@ Criador de jogos e simuladores como método de aprendizado.
 ### 📊 **GitHub Analytics**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremedam&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tremedam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -193,19 +183,24 @@ Criador de jogos e simuladores como método de aprendizado.
 <div align="center">
 
 ### 🌟 **Destaques do Ano**
+
+</div>
+
 - 🎯 **100+ contribuições** no GitHub
 - 📈 **26 repositórios** públicos desenvolvidos  
 - 🚀 Participação ativa em **bootcamps DIO**
 - 💡 Foco em **projetos práticos** de aprendizado
 - 🎮 **5+ jogos** desenvolvidos como método de estudo
 
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## **Vamos Conectar!**
+
 
 <div align="center">
+
+## **Conecte-se**
 
 <a href="https://github.com/tremedam" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -226,7 +221,7 @@ Criador de jogos e simuladores como método de aprendizado.
 
 <div align="center">
 
-### 🎯 **Minha Visão**
+### **Minha Visão**
 
 > *"Cada projeto é uma oportunidade de aprender algo novo. Não importa o quão simples seja o desafio, sempre há espaço para crescimento e inovação."*
 
