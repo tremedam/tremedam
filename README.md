@@ -17,6 +17,10 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 - 🏢 **Empresa:** CYBELAR COMERCIO E INDUSTRIA LTDA
 - ⚡ **Fato curioso:** Adoro criar jogos e simuladores como forma de aprender!
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremedam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
@@ -43,20 +47,6 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-</div>
-
-## � Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tremedam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tremedam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremedam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎯 Projetos em Destaque
@@ -97,10 +87,8 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 
 </div>
 
-- 🏆 **Bootcamp Front-End** - Digital Innovation One
-- 🏆 **Trilha Java Básico** - Digital Innovation One
-- 🏆 **Azure AI Fundamentals** - Microsoft Azure
-- 🏆 **Cloud Computing** - Conceitos fundamentais
+- 🏆 **Bootcamp Front-End do Zero** - Digital Innovation One e Ri Happy
+- 🏆 **Bootcamp Java Cloud Native** - Digital Innovation One e Bradesco
 
 ## 🔄 Atividade Recente
 
@@ -109,14 +97,14 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 - 🚀 Participação ativa em **bootcamps DIO**
 - 💡 Focado em **projetos práticos** de aprendizado
 
-## 🤝 Vamos Conectar!
+## Conecte-se comigo!
 
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tremedam)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-dias-dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.dias@cybelar.com.br)
-[![DIO](https://img.shields.io/badge/-Digital%20Innovation%20One-8A2BE2?style=for-the-badge&logo=dio&logoColor=white)](https://dio.me/users/tremedam)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-fellipe-28471a26a/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagofellipe055@gmail.com)
+[![DIO](https://img.shields.io/badge/-Digital%20Innovation%20One-8A2BE2?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/thiagofellipe055)
 
 </div>
 
@@ -127,25 +115,13 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 <div align="center">
   
 ### 🎯 Meus Objetivos
+
+</div>
+
 - 📚 Dominar desenvolvimento Full Stack
 - 🏗️ Contribuir para projetos open source
 - 🌟 Compartilhar conhecimento com a comunidade
 - 🚀 Evoluir constantemente como desenvolvedor
-
-</div>
-
-## 📈 Jornada de Aprendizado
-
-```mermaid
-graph LR
-    A[Iniciante] --> B[HTML/CSS]
-    B --> C[JavaScript]
-    C --> D[Java]
-    D --> E[Spring Boot]
-    E --> F[Cloud Azure]
-    F --> G[IA & Machine Learning]
-    G --> H[Full Stack Developer]
-```
 
 ---
 
@@ -154,7 +130,7 @@ graph LR
 </div>
 
 <div align="center">
-  <h3>⭐ Obrigado por visitar meu perfil! ⭐</h3>
+  <h3>Obrigado por visitar meu perfil!</h3>
   <p><i>"O código é poesia em movimento - cada linha conta uma história de solução e criatividade."</i></p>
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
