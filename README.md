@@ -1,46 +1,47 @@
-# 👋 Olá! Eu sou o Tremeda
+# 👋 Olá! Eu sou o Thiago Dias
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=500&lines=Desenvolvedor+Full+Stack+Jr;Estudante+de+Programa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia;DIO+Bootcamp+Student!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Acredito no poder da programação para transformar ideias em soluções reais.
+Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvimento, trabalhando na **CYBELAR** em **Tietê - SP**. Tenho uma paixão genuína por tecnologia e estou sempre em busca de novos conhecimentos através de bootcamps, projetos práticos e desafios de código.
 
-- 🔭 **Atualmente trabalhando em:** Projetos de desenvolvimento web e mobile
-- 🌱 **Estudando:** Novas tecnologias e frameworks modernos
-- 👯 **Procurando colaborar em:** Projetos open source e iniciativas inovadoras
-- 💬 **Pergunte-me sobre:** JavaScript, Python, React, Node.js e desenvolvimento web
-- 📫 **Como me encontrar:** [Adicione seus contatos aqui]
-- ⚡ **Fato curioso:** Sempre disposto a aprender uma nova linguagem de programação!
+- 🔭 **Atualmente trabalhando em:** Projetos de aprendizado e bootcamps da DIO
+- 🌱 **Estudando:** Java, JavaScript, Spring Boot, HTML/CSS e desenvolvimento web
+- 🎯 **Foco atual:** Desenvolvimento Full Stack e programação orientada a objetos
+- 👯 **Procurando colaborar em:** Projetos open source e iniciativas de aprendizado
+- 💬 **Pergunte-me sobre:** Java, JavaScript, HTML/CSS, jogos web e projetos DIO
+- � **Localização:** Tietê - SP, Brasil
+- 🏢 **Empresa:** CYBELAR COMERCIO E INDUSTRIA LTDA
+- ⚡ **Fato curioso:** Adoro criar jogos e simuladores como forma de aprender!
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
   
-### Frontend
+### 💻 Linguagens de Programação
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### Backend
+### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Banco de Dados
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas
+### ☁️ Cloud & Ferramentas
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🤖 IA & Tecnologias Emergentes
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
@@ -62,27 +63,89 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=projeto-destaque-1&theme=tokyonight&hide_border=true)](https://github.com/tremedam/projeto-destaque-1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=projeto-destaque-2&theme=tokyonight&hide_border=true)](https://github.com/tremedam/projeto-destaque-2)
+[![Portfólio Profissional](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=Portifolio_Pro&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Portifolio_Pro)
+[![Pokédex Project](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=Projeto_Pokedex&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Projeto_Pokedex)
+
+[![Calculadora Geométrica](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=Calc_Geometrica_C&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Calc_Geometrica_C)
+[![Lista de Tarefas API](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=Lista_Tarefas_DIO&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Lista_Tarefas_DIO)
 
 </div>
+
+### 🎮 Jogos & Simuladores
+- **[Piano Simulator](https://github.com/tremedam/Piano_Simulator)** - Piano virtual interativo com HTML, CSS e JavaScript
+- **[Detona Ralph Game](https://github.com/tremedam/Detona_Ralph_Game)** - Jogo baseado no filme, com eventos JavaScript
+- **[Jogo da Memória](https://github.com/tremedam/Jogo_Memoria)** - Jogo da memória com emojis
+- **[Yu-Gi-Oh! Jokempô](https://github.com/tremedam/Projeto_Yugioh_DIO)** - Pedra, papel e tesoura temático
+- **[Sudoku Java](https://github.com/tremedam/Sudoku_Java_DIO)** - Implementação do clássico jogo
+
+### 💼 Projetos Profissionais
+- **[Catálogo de Produtos](https://github.com/tremedam/Catalogo_de_Produtos_DIO)** - Sistema web para gestão de produtos
+- **[Banco Digital OO](https://github.com/tremedam/lab-banco-digital-oo)** - Sistema bancário com POO
+- **[Desafio iPhone](https://github.com/tremedam/Desafio_Iphone_DIO)** - Aplicação de conceitos POO
+
+### 🎨 Landing Pages & Front-end
+- **[Spider-Man Multiverso](https://github.com/tremedam/Spider_Man_Multi_DIO)** - Página completa temática
+- **[Stranger Things](https://github.com/tremedam/Landing_Page_ST_DIO)** - Landing page da série
+
+## 🎓 Formação & Certificações
+
+<div align="center">
+  
+![DIO](https://img.shields.io/badge/-Digital%20Innovation%20One-8A2BE2?style=for-the-badge&logo=dio&logoColor=white)
+![Bootcamp](https://img.shields.io/badge/-Front--End%20Bootcamp-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/-Java%20Bootcamp-007396?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+- 🏆 **Bootcamp Front-End** - Digital Innovation One
+- 🏆 **Trilha Java Básico** - Digital Innovation One
+- 🏆 **Azure AI Fundamentals** - Microsoft Azure
+- 🏆 **Cloud Computing** - Conceitos fundamentais
+
+## 🔄 Atividade Recente
+
+- 🎯 **100 contribuições** no último ano
+- 📈 **26 repositórios** públicos criados
+- 🚀 Participação ativa em **bootcamps DIO**
+- 💡 Focado em **projetos práticos** de aprendizado
 
 ## 🤝 Vamos Conectar!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tremedam)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-dias-dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.dias@cybelar.com.br)
+[![DIO](https://img.shields.io/badge/-Digital%20Innovation%20One-8A2BE2?style=for-the-badge&logo=dio&logoColor=white)](https://dio.me/users/tremedam)
 
 </div>
 
-## 💡 Quote do Dia
+## 💭 Filosofia de Desenvolvimento
+
+> *"Cada projeto é uma oportunidade de aprender algo novo. Não importa o quão simples seja o desafio, sempre há espaço para crescimento e inovação."*
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+### 🎯 Meus Objetivos
+- 📚 Dominar desenvolvimento Full Stack
+- 🏗️ Contribuir para projetos open source
+- 🌟 Compartilhar conhecimento com a comunidade
+- 🚀 Evoluir constantemente como desenvolvedor
+
 </div>
+
+## 📈 Jornada de Aprendizado
+
+```mermaid
+graph LR
+    A[Iniciante] --> B[HTML/CSS]
+    B --> C[JavaScript]
+    C --> D[Java]
+    D --> E[Spring Boot]
+    E --> F[Cloud Azure]
+    F --> G[IA & Machine Learning]
+    G --> H[Full Stack Developer]
+```
 
 ---
 
@@ -92,19 +155,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 <div align="center">
   <h3>⭐ Obrigado por visitar meu perfil! ⭐</h3>
-  <p><i>"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."</i></p>
+  <p><i>"O código é poesia em movimento - cada linha conta uma história de solução e criatividade."</i></p>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-<!--
-**tremedam/tremedam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
