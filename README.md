@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvimento, trabalhando na **CYBELAR** em **Tietê - SP**. Tenho uma paixão genuína por tecnologia e estou sempre em busca de novos conhecimentos através de bootcamps, projetos práticos e desafios de código.
+Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvimento, trabalhando na TI da **CYBELAR** em **Tietê - SP**. Tenho uma paixão genuína por tecnologia e estou sempre em busca de novos conhecimentos através de bootcamps, cursos, projetos e desafios de código.
 
 - 🔭 **Atualmente trabalhando em:** Projetos de aprendizado e bootcamps da DIO
 - 🌱 **Estudando:** Java, JavaScript, Spring Boot, HTML/CSS e desenvolvimento web
@@ -15,7 +15,7 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 - 💬 **Pergunte-me sobre:** Java, JavaScript, HTML/CSS, jogos web e projetos DIO
 - � **Localização:** Tietê - SP, Brasil
 - 🏢 **Empresa:** CYBELAR COMERCIO E INDUSTRIA LTDA
-- ⚡ **Fato curioso:** Adoro criar jogos e simuladores como forma de aprender!
+- ⚡ **Fato curioso:** Gosto de criar jogos e simuladores como forma de aprender!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremedam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -76,19 +76,6 @@ Sou **Thiago F.S Dias**, um estudante de programação em constante desenvolvime
 ### 🎨 Landing Pages & Front-end
 - **[Spider-Man Multiverso](https://github.com/tremedam/Spider_Man_Multi_DIO)** - Página completa temática
 - **[Stranger Things](https://github.com/tremedam/Landing_Page_ST_DIO)** - Landing page da série
-
-## 🎓 Formação & Certificações
-
-<div align="center">
-  
-![DIO](https://img.shields.io/badge/-Digital%20Innovation%20One-8A2BE2?style=for-the-badge&logo=dio&logoColor=white)
-![Bootcamp](https://img.shields.io/badge/-Front--End%20Bootcamp-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-Java%20Bootcamp-007396?style=for-the-badge&logo=java&logoColor=white)
-
-</div>
-
-- 🏆 **Bootcamp Front-End do Zero** - Digital Innovation One e Ri Happy
-- 🏆 **Bootcamp Java Cloud Native** - Digital Innovation One e Bradesco
 
 ## 🔄 Atividade Recente
 
