@@ -235,20 +235,20 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 <table>
 <tr>
     <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/📚_Novas-Tecnologias-blue?style=for-the-badge" alt="Tecnologias"/>
+        <img src="https://img.shields.io/badge/New-Tecnologias-blue?style=for-the-badge" alt="Tecnologias"/>
         <br><small>Aprender e dominar novas tecnologias</small>
     </td>
     <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🏗️_Portfólio-Aplicações-green?style=for-the-badge" alt="Portfólio"/>
+        <img src="https://img.shields.io/badge/Application-portifólio-green?style=for-the-badge" alt="Portfólio"/>
         <br><small>Focar em aplicações para portfólio</small>
     </td>
     <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🌟_Knowledge-Sharing-orange?style=for-the-badge" alt="Knowledge"/>
-        <br><small>Compartilhar conhecimento</small>
+        <img src="https://img.shields.io/badge/Knowledge-Compartilhamento-orange?style=for-the-badge" alt="Knowledge"/>
+        <br><small>Compartilhar conhecimento com colegas</small>
     </td>
     <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🚀_Continuous-Learning-purple?style=for-the-badge" alt="Learning"/>
-        <br><small>Evolução constante</small>
+        <img src="https://img.shields.io/badge/Evolution-Constante-purple?style=for-the-badge" alt="Learning"/>
+        <br><small>Evolução constante sempre melhor que ontem</small>
     </td>
 </tr>
 </table>
