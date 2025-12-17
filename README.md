@@ -247,7 +247,7 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
         <br><small>Compartilhar conhecimento com colegas</small>
     </td>
     <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Evolution-Constante-purple?style=for-the-badge" alt="Learning"/>
+        <img src="https://img.shields.io/badge/Evolution-Constancia-purple?style=for-the-badge" alt="Learning"/>
         <br><small>Evolução constante sempre melhor que ontem</small>
     </td>
 </tr>
