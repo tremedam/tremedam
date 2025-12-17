@@ -20,10 +20,9 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 
 ### 🔍 **Atualmente**
 - **Trabalhando em:** Projetos de aprendizado e bootcamps da DIO;
-- **Estudando:** Java, JavaScript, Spring Boot, HTML/CSS e desenvolvimento web;
-- **Foco atual:** Desenvolvimento Full Stack e programação orientada a objetos;
+- **Estudando:** React, Taiwind, Next, JavaScript, Vercel e desenvolvimento web;
+- **Foco atual:** Desenvolvimento Full Stack e programação Web;
 - **Colaborando em:** Projetos open source e iniciativas de aprendizado;
-- **Pergunte-me sobre:** Java, JavaScript, HTML/CSS, jogos web e projetos DIO;
 - **Empresa:** CYBELAR COMERCIO E INDUSTRIA LTDA.
 
 <br clear="right">
@@ -55,12 +54,12 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
         <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <br>Tailwind
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
@@ -69,8 +68,8 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-        <br>Spring
+        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next" />
+        <br>Next
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -85,8 +84,8 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
         <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-        <br>Azure
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+        <br>Vercel
     </td>
 </tr>
 </table>
@@ -223,7 +222,7 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 
 ### **Minha Visão**
 
-> *"Cada projeto é uma oportunidade de aprender algo novo. Não importa o quão simples seja o desafio, sempre há espaço para crescimento e inovação."*
+> *"Cada projeto é uma oportunidade de aprender algo novo. Não importa o quão simples ou complexo seja o desafio, sempre há espaço para crescimento e inovação."*
 
 </div>
 
@@ -231,17 +230,17 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 
 <div align="center">
 
-### 🚀 **Metas 2025**
+### 🚀 **Metas 2026**
 
 <table>
 <tr>
     <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/📚_Full_Stack-Mastery-blue?style=for-the-badge" alt="Full Stack"/>
-        <br><small>Dominar desenvolvimento Full Stack</small>
+        <img src="https://img.shields.io/badge/📚_Novas-Tecnologias-blue?style=for-the-badge" alt="Tecnologias"/>
+        <br><small>Aprender e dominar novas tecnologias</small>
     </td>
     <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🏗️_Open_Source-Contribution-green?style=for-the-badge" alt="Open Source"/>
-        <br><small>Contribuir para projetos open source</small>
+        <img src="https://img.shields.io/badge/🏗️_Portfólio-Aplicações-green?style=for-the-badge" alt="Portfólio"/>
+        <br><small>Focar em aplicações para portfólio</small>
     </td>
     <td align="center" width="25%">
         <img src="https://img.shields.io/badge/🌟_Knowledge-Sharing-orange?style=for-the-badge" alt="Knowledge"/>
