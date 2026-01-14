@@ -183,13 +183,12 @@ Sou um estudante de programação em constante evolução, trabalhando na área 
 <div align="center">
 
 | Projeto | Área | Descrição |
-|---------|------|-----------||
+|---------|------|-----------|
 | **[🤖 OpenAI & Copilot](https://github.com/tremedam/ReadME_OpenAI_DIO)** | `IA` `Azure` | Exemplos práticos de Copilots e ferramentas OpenAI |
 | **[📚 Ingestão de Dados com IA](https://github.com/tremedam/ReadMe_Doc_IA_DIO)** | `IA` `Machine Learning` | Laboratório de ingestão de dados e índices inteligentes |
 | **[🗣️ IA para Voz e Linguagem](https://github.com/tremedam/ReadME_IA_Azure_DIO)** | `Azure` `IA` | Estudos de IA voltados para processamento de voz |
 | **[☁️ Fundamentos Azure](https://github.com/tremedam/ReadME_Azure_DIO)** | `Azure` `Cloud` | Resumos e anotações sobre uso da Azure |
 | **[🌐 Computação em Nuvem](https://github.com/tremedam/ReadME_Cloud_DIO)** | `Cloud Computing` | Conceitos fundamentais de cloud computing |
-
 </div>
 
 </details>
