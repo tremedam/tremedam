@@ -16,12 +16,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Sou um estudante de programação em constante evolução, trabalhando na area de TI da **CYBELAR**. Apaixonado por tecnologia e sempre em busca de novos desafios para adquirir experiencia e entregar resultados incriveis. Foco meus estudos para ir rumo a area de desenvolvimento Full Stack e programação orientada a objetos.
+Sou um estudante de programação em constante evolução, trabalhando na área de TI da **CYBELAR**. Apaixonado por tecnologia e sempre em busca de novos desafios para adquirir experiência e entregar resultados incríveis. Foco meus estudos para ir rumo à área de desenvolvimento Full Stack, programação orientada a objetos e cloud computing.
 
 ### 🔍 **Atualmente**
-- **Trabalhando em:** Projetos de aprendizado e bootcamps da DIO;
-- **Estudando:** React, Taiwind, Next, JavaScript, Vercel e desenvolvimento web;
-- **Foco atual:** Desenvolvimento Full Stack e programação Web;
+- **Trabalhando em:** Sistema de agendamento profissional e boilerplates de projetos;
+- **Estudando:** React, Tailwind, Next.js, Spring Boot, Azure e desenvolvimento cloud;
+- **Foco atual:** Desenvolvimento Full Stack, POO e infraestrutura em nuvem;
 - **Colaborando em:** Projetos open source e iniciativas de aprendizado;
 - **Empresa:** CYBELAR COMERCIO E INDUSTRIA LTDA.
 
@@ -31,11 +31,11 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
   
 ### 📊 **GitHub Analytics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremedam&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
+<a href="https://github.com/tremedam">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tremedam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tremedam&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -76,6 +76,24 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
         <br>Node.js
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+        <br>Spring
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+        <br>Azure
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br>CSS
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
     </td>
@@ -86,6 +104,10 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
         <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
     </td>
 </tr>
 </table>
@@ -98,11 +120,11 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 
 ### **Repositórios Principais**
 
-[![Portfólio Profissional](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=Portifolio_Pro&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Portifolio_Pro)
-[![Pokédex Project](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=Projeto_Pokedex&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Projeto_Pokedex)
+[![Portfólio Profissional](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tremedam&repo=Portifolio_Pro&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Portifolio_Pro)
+[![Pokédex Project](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tremedam&repo=Projeto_Pokedex&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Projeto_Pokedex)
 
-[![Calculadora Geométrica](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=Calc_Geometrica_C&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Calc_Geometrica_C)
-[![Lista de Tarefas API](https://github-readme-stats.vercel.app/api/pin/?username=tremedam&repo=Lista_Tarefas_DIO&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Lista_Tarefas_DIO)
+[![Agendamento Pro](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tremedam&repo=Agendamento_Pro&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Agendamento_Pro)
+[![Calculadora Geométrica](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tremedam&repo=Calc_Geometrica_C&theme=tokyonight&hide_border=true)](https://github.com/tremedam/Calc_Geometrica_C)
 
 </div>
 
@@ -119,8 +141,7 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 | **[🔨 Detona Ralph Game](https://github.com/tremedam/Detona_Ralph_Game)** | `JavaScript` `DOM` | Jogo baseado no filme com eventos dinâmicos |
 | **[🧠 Jogo da Memória](https://github.com/tremedam/Jogo_Memoria)** | `HTML` `CSS` `JS` | Jogo da memória com emojis e animações |
 | **[🃏 Yu-Gi-Oh! Jokempô](https://github.com/tremedam/Projeto_Yugioh_DIO)** | `JavaScript` `CSS` | Pedra, papel e tesoura temático |
-| **[🧩 Sudoku Java](https://github.com/tremedam/Sudoku_Java_DIO)** | `Java` `POO` | Implementação completa do clássico jogo |
-
+| **[🧩 Sudoku Java](https://github.com/tremedam/Sudoku_Java_DIO)** | `Java` `POO` | Implementação completa do clássico jogo || **[🦸 Classificador de Herói](https://github.com/tremedam/Classificador_Nivel_Heroi)** | `HTML` `CSS` `JS` | Sistema de classificação de nível de heróis por XP |
 </div>
 
 </details>
@@ -132,7 +153,10 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| **[📦 Catálogo de Produtos](https://github.com/tremedam/Catalogo_de_Produtos_DIO)** | `HTML` `CSS` `JS` | Sistema web completo para gestão de produtos |
+| **[📅 Agendamento Pro](https://github.com/tremedam/Agendamento_Pro)** | `JavaScript` `HTML` `CSS` | Sistema moderno de agendamento e controle de mercadorias |
+| **[⚛️ Boilerplate React/Next](https://github.com/tremedam/boilerplate)** | `React` `Next.js` `JavaScript` | Base estruturada para novos projetos web com best practices |
+| **[📦 Catálogo de Produtos](https://github.com/tremedam/Catalogo_de_Produtos_DIO)** | `Java` `Spring` | Sistema web completo para gestão de produtos |
+| **[📋 Lista de Tarefas API](https://github.com/tremedam/Lista_Tarefas_DIO)** | `Java` `Spring Boot 3` | API REST com operações CRUD completas |
 | **[🏦 Banco Digital OO](https://github.com/tremedam/lab-banco-digital-oo)** | `Java` `POO` | Sistema bancário com programação orientada a objetos |
 | **[📱 Desafio iPhone](https://github.com/tremedam/Desafio_Iphone_DIO)** | `Java` `UML` | Modelagem e implementação de conceitos POO |
 
@@ -148,7 +172,23 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
 | **[🕷️ Spider-Man Multiverso](https://github.com/tremedam/Spider_Man_Multi_DIO)** | `HTML` `CSS` `JS` | Página temática completa com animações |
-| **[👾 Stranger Things](https://github.com/tremedam/Landing_Page_ST_DIO)** | `HTML` `CSS` | Landing page responsiva da série |
+| **[👾 Stranger Things](https://github.com/tremedam/Landing_Page_ST_DIO)** | `HTML` `CSS` | Landing page responsiva da série || **[🎨 Art Code Experiment](https://github.com/tremedam/Art_Code_Experiment)** | `HTML` `CSS` `JavaScript` | Experimento criativo de arte em código |
+</div>
+
+</details>
+
+<details>
+<summary><h3>☁️ <strong>Cloud & IA - Azure</strong></h3></summary>
+
+<div align="center">
+
+| Projeto | Área | Descrição |
+|---------|------|-----------||
+| **[🤖 OpenAI & Copilot](https://github.com/tremedam/ReadME_OpenAI_DIO)** | `IA` `Azure` | Exemplos práticos de Copilots e ferramentas OpenAI |
+| **[📚 Ingestão de Dados com IA](https://github.com/tremedam/ReadMe_Doc_IA_DIO)** | `IA` `Machine Learning` | Laboratório de ingestão de dados e índices inteligentes |
+| **[🗣️ IA para Voz e Linguagem](https://github.com/tremedam/ReadME_IA_Azure_DIO)** | `Azure` `IA` | Estudos de IA voltados para processamento de voz |
+| **[☁️ Fundamentos Azure](https://github.com/tremedam/ReadME_Azure_DIO)** | `Azure` `Cloud` | Resumos e anotações sobre uso da Azure |
+| **[🌐 Computação em Nuvem](https://github.com/tremedam/ReadME_Cloud_DIO)** | `Cloud Computing` | Conceitos fundamentais de cloud computing |
 
 </div>
 
@@ -163,10 +203,10 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 <table>
 <tr>
     <td align="center">
-        <img src="https://img.shields.io/badge/🎯_Contribuições-100+-blue?style=for-the-badge" alt="Contributions"/>
+        <img src="https://img.shields.io/badge/🎯_Contribuições-127+-blue?style=for-the-badge" alt="Contributions"/>
     </td>
     <td align="center">
-        <img src="https://img.shields.io/badge/📈_Repositórios-26+-green?style=for-the-badge" alt="Repositories"/>
+        <img src="https://img.shields.io/badge/📈_Repositórios-31+-green?style=for-the-badge" alt="Repositories"/>
     </td>
     <td align="center">
         <img src="https://img.shields.io/badge/🚀_Bootcamps-DIO-purple?style=for-the-badge" alt="Bootcamps"/>
@@ -185,11 +225,14 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
 
 </div>
 
-- 🎯 **100+ contribuições** no GitHub
-- 📈 **26 repositórios** públicos desenvolvidos  
+- 🎯 **127+ contribuições** no GitHub em 2025 
+- 📈 **31 repositórios** públicos desenvolvidos  
 - 🚀 Participação ativa em **bootcamps DIO**
 - 💡 Foco em **projetos práticos** de aprendizado
-- 🎮 **5+ jogos** desenvolvidos como método de estudo
+- 🎮 **6 jogos** desenvolvidos como método de estudo
+- ☁️ **5 projetos** de estudo em **Azure e IA**
+- ⚛️ Criação de **boilerplate profissional** React/Next.js
+- 📅 Projeto destaque: **Agendamento_Pro** com interface moderna
 
 
 
@@ -239,7 +282,7 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
         <br><small>Aprender e dominar novas tecnologias</small>
     </td>
     <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Application-portifólio-green?style=for-the-badge" alt="Portfólio"/>
+        <img src="https://img.shields.io/badge/Application-Portfolio-green?style=for-the-badge" alt="Portfólio"/>
         <br><small>Focar em aplicações para portfólio</small>
     </td>
     <td align="center" width="25%">
@@ -248,7 +291,7 @@ Sou um estudante de programação em constante evolução, trabalhando na area d
     </td>
     <td align="center" width="25%">
         <img src="https://img.shields.io/badge/Evolution-Constancia-purple?style=for-the-badge" alt="Learning"/>
-        <br><small>Evolução constante sempre melhor que ontem</small>
+        <br><small>Evolução constante, sempre melhor que ontem</small>
     </td>
 </tr>
 </table>
